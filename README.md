@@ -4,7 +4,7 @@ Este repositorio es un Book de ejemplos de BI para desarrolladores
 
 ## 1.- Métricas de Clientes 
 
-<iframe title="Mi primer reporte" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=534d2721-af8b-45e0-9dea-5546837fc281&autoAuth=true&ctid=9e583948-9d1b-4aad-beb5-b7474239605f" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/reportEmbed?reportId=534d2721-af8b-45e0-9dea-5546837fc281&autoAuth=true&ctid=9e583948-9d1b-4aad-beb5-b7474239605f
 
 *Imagen de ejemplo*
 
